@@ -1,6 +1,6 @@
 # Simple_Clock
 It's just a simple clock with a beautiful UI.
-The future scope is to add features of alarm and timer 
+The future scope is to add features of Alarm and Timer to the Clock.
 
 
 A new Flutter project.
