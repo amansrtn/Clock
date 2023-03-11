@@ -1,4 +1,7 @@
-# myalaram
+# Simple_Clock
+It's just a simple clock with a beautiful UI.
+The future scope is to add features of alarm and timer 
+
 
 A new Flutter project.
 
